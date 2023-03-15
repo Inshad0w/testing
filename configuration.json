@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "5f4a9954553ffb001a06ee16",
+    "guest": true,
+    "profile": true,
+    "__v": 0,
+    "login": {
+      "registerUri": "https://www.guigo.tv/authentication/register/",
+      "toggle": true 
+    }
+  }
+]
